@@ -1,6 +1,6 @@
 # [Gatos Aleatorios](https://jhonortizgomez.github.io/Cats/)
 
-Esta es una single page application que consume una API.
+Prepárate para sumergirte en la ternura felina con la página "Gatitos Aleatorios". Esta single page application, creada con JavaScript para consumir una API que trae imágenes adorables de gatitos, te invita a disfrutar de la alegría y la simpatía de estos encantadores animales. Los estilos, aportados por CSS, dan vida a la presentación, mientras que HTML5 estructura la aplicación para una experiencia sencilla y agradable. ¡Descubre la magia de los gatos con solo un clic!
 
 ## Tecnologia utilizadas
 
